@@ -1,0 +1,4 @@
+hola mundo, server, desde archivo
+[archivo.txt]
+
+linea para el asincrono
